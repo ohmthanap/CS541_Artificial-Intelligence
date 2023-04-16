@@ -22,5 +22,4 @@ Artificial intelligence (AI), sometimes called machine intelligence, is intellig
 
 ### Skills
 
-- **Programming:** Python
-- **Software:** Jupyter Notebook
+- **Artificial Intelligence/Machine Learning:** Search strategies, Logic, Bayesian Network, Knowledge representation, Machine Learning theory, Markov decision process, Decision theory, Decision trees, Reinforcement Learning
